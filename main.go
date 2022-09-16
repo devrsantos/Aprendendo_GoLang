@@ -4,7 +4,8 @@ import (
 	"fmt"
 	"math"
 	"reflect"
-	"strconv"
+
+	"myModules/modules"
 )
 
 func main() {
@@ -13,9 +14,7 @@ func main() {
 	area := Pi * math.Pow(raio, 2)
 	fmt.Println("A área é", area)
 
-	mediaFinal := strconv.Itoa(int(media(7, 8, 7.9, 6.9)))
-
-	fmt.Println("A média final é de: "+ mediaFinal);
+	calcNota.Media(7, 8, 7.9, 6.9)
 
 	nome := `Renan Augusto`
 	fmt.Println("A variável nome é do tipo", reflect.TypeOf(nome), "e tem", len(nome), "caracteres")
