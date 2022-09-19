@@ -1,4 +1,4 @@
-package calcNota
+package main
 
 import (
 	"fmt"
