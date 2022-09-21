@@ -1,6 +1,7 @@
 package main
 
 import (
+	//C:\Program Files\Go\src\devrsantos\pacote_local
 	"devrsantos/pacote_local"
 	
 	"github.com/devrsantos/golang_calcula_media"
