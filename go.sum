@@ -1,2 +1,4 @@
-github.com/devrsantos/golang_calcula_media v0.0.0-20220921135456-e16faf6be361 h1:okIrp2dc3d+kdJo/i/hrN27UUJY/vvL8uP07Bl9cGkM=
-github.com/devrsantos/golang_calcula_media v0.0.0-20220921135456-e16faf6be361/go.mod h1:ANE+uxYZWfMjkXp7IFR5bmHrfakZQxiDdg/eBqd4AsY=
+github.com/devrsantos/pacotes_go/calculaMedia v0.0.0-20220921192736-6720ca4068b7 h1:/BxN6K3QCW4E/EjLNjVo6TcHwbQifH/jdpR4jCIWFw0=
+github.com/devrsantos/pacotes_go/calculaMedia v0.0.0-20220921192736-6720ca4068b7/go.mod h1:Ve5iX5I/DAGE0+i39pIz6kBoeizGKFU5SgAP6u+Nwzs=
+github.com/devrsantos/pacotes_go/funcaoAritimeticas v0.0.0-20220921194407-ac72216fb6f6 h1:dFlqklFkhNLQTfc5zbJwbM7C9GFlS3vmN/3VF86tsf4=
+github.com/devrsantos/pacotes_go/funcaoAritimeticas v0.0.0-20220921194407-ac72216fb6f6/go.mod h1:whG+nONbVsil4bu9tIuZtgGsAWUa45TjOHEjSo0CVno=
